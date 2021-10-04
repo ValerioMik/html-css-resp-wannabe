@@ -82,19 +82,19 @@ img {
   #steps .row>.right {
 
     width: 100%;
-    display: contents;
+   
 
   }
 
   #lezioni .row>.left,
   #lezioni .row>.right {
-    
+
     width: 100%;
-    display: contents;
-}
+   
+ }
 
   .row {
-    width: 80%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 100px;
@@ -103,8 +103,7 @@ img {
   img{
     margin-top: 20px;
   }
-
-
-
- 
 }
+
+  /* Bonus Tablet */
+
