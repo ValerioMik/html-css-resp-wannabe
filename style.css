@@ -108,7 +108,7 @@ img {
   /* Bonus Tablet */
 
 
-  @media all and (min-width: 800px){
+  @media all and (min-width: 800px) and (max-width: 1080px){
     .row {
       width: 100%;
       margin-left: auto;
